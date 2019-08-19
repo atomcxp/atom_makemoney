@@ -1,1 +1,7 @@
 # atom_makemoney
+
+optionSpreadVSfutureSpread:期权日历价差跟期货近远月价差对比
+
+moving_calender_spread:随着市场价格，变化平值价格的移动日历价差（三组）收益曲线
+
+calenderSpread_5unions_futureSpread:三组期权日历价差，以及高价和低价的一半看涨或看跌期权，再加上近远月价差。
